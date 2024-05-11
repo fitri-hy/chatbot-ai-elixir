@@ -23,7 +23,7 @@ You will see Erlang and Elixir version information if the installation is succes
 ## Instalation Project
 
 ```
-git clone https://github.com/fitri-hy/chatbot-ai-elixir
+git clone https://github.com/fitri-hy/chatbot-ai-elixir.git
 cd chatbot-ai-elixir
 mix deps.get
 mix run -e App.start
